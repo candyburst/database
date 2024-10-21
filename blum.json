@@ -2,6 +2,20 @@
   "skipHandleTask": false,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "KOMPtO0PWQ",
+  "server": {
+    "pro": [
+      {
+        "url": "https://blum-pro.vercel.app/api/",
+        "status": 1
+      }
+    ],
+    "free": [
+      {
+        "url": "https://blum-free-1.vercel.app/api/",
+        "status": 1
+      }
+    ]
+  },
   "payloadServer": [
     {
       "id": "vqzuejeiiemf1",
@@ -9,27 +23,27 @@
     },
     {
       "id": "weajonqbsyvr2",
-      "status": 0
+      "status": 1
     },
     {
       "id": "oraiuhooppds3",
-      "status": 0
+      "status": 1
     },
     {
       "id": "mwmyjxhwhvkd4",
-      "status": 0
+      "status": 1
     },
     {
       "id": "agujrczbhepn5",
-      "status": 0
+      "status": 1
     },
     {
       "id": "iqwuumqkuczb6",
-      "status": 0
+      "status": 1
     },
     {
       "id": "zseniuazehyf7",
-      "status": 1
+      "status": 0
     },
     {
       "id": "bmyrrpbvnlaa8",
@@ -131,6 +145,5 @@
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
   "ver": "v0.1.7",
-  "noti": "Due to the situation where many parties are spamming requests to the server to obtain game payloads, leading to the servers soon being overloaded tonight (18/10), it is advised that everyone should avoid playing the game starting late tonight to prevent ticket loss errors.
-In the near future, an API KEY will be required to request the game payload from the server to prevent spamming by farms and other parties. For those playing casually, rest assured that a free API KEY will still be provided. However, for those playing heavily, you'll need to top up some money to purchase it. You've enjoyed the free ride long enough."
+  "noti": "Due to the situation where many parties are spamming requests to the server to obtain game payloads, leading to the servers soon being overloaded tonight (18/10), it is advised that everyone should avoid playing the game starting late tonight to prevent ticket loss errors. In the near future, an API KEY will be required to request the game payload from the server to prevent spamming by farms and other parties. For those playing casually, rest assured that a free API KEY will still be provided. However, for those playing heavily, you'll need to top up some money to purchase it. You've enjoyed the free ride long enough."
 }
