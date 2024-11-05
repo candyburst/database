@@ -1,19 +1,44 @@
 {
   "skipHandleTask": false,
+  "skipHandleGame": true,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "bfOahgbbg9",
   "server": {
     "pro": [
       {
-        "url": "https://blum-server2.vercel.app/api/",
+        "url": "https://blum-server8.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-backup1.vercel.app/api/",
+        "url": "https://blum-server5.vercel.app/api/",
         "status": 1
       },
       {
         "url": "https://blum-server3.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server4.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server6.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server0.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server7.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server9.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server10.vercel.app/api/",
         "status": 1
       }
     ],
@@ -120,7 +145,7 @@
     },
     {
       "id": "98d390d1-95da-475f-8df9-53a335842c3a",
-      "answer": "BLUMHELPS"
+      "answer": "Blumhelps"
     },
     {
       "id": "92bc4338-85ca-4bf9-a0a5-320e677116fd",
@@ -134,6 +159,6 @@
   "tribeSkip": [
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
-  "ver": "v0.2.2",
-  "noti": "- Multi-language feature has been updated, see user guide at https://github.com/zuydd/blum for how to install\n- Nếu bạn đang tích hợp API vào bot của riêng bạn, vui lòng thay đổi server PRO về máy chủ mới http://14.225.212.202 trước 8:00 (UTC+7) 29/10/2024 để tránh gián đoạn sử dụng dịch vụ\n- Đã cập nhật phiên bản mới hỗ trợ API KEY, có thể mua hoặc nhận miễn phí API KEY tại 👉 https://zuy-web.vercel.app/blum với đợt khuyển mãi mua sớm giảm giá 30%\n- Nhấn enter để bỏ qua nếu bạn không có API KEY\n- Đối với các bạn nhận KEY FREE vui lòng nhắn tin nhắn qua Telegram @blum_zuydd trước cho mình nhé, acc mình không thể chủ động gửi tin nhắn do sẽ bị tính là spam"
+  "ver": "v0.2.3",
+  "noti": "- The game feature is experiencing an error and does not record points after playing. Please suspend the tool until the next update.\n- The multi-language feature has been updated. Refer to the user guide at https://github.com/zuydd/blum for installation instructions.\n- If you are integrating the API into your own bot, please switch the PRO server to the new server at http://14.225.212.202 before 8:00 (UTC+7) on 10/29/2024 to avoid service interruptions.\n- The new version supports API KEYs, which can be purchased or obtained for free at 👉 https://zuy-web.vercel.app/blum with a 30% early-bird discount.\n- Press enter to skip if you do not have an API KEY.\n- For those requesting a FREE KEY, please message me on Telegram @apimanagerzoro first. I am unable to send messages proactively as it may be flagged as spam."
 }
