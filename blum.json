@@ -1,44 +1,49 @@
 {
   "skipHandleTask": false,
-  "skipHandleGame": true,
+  "skipHandleGame": false,
+  "randomPoints": [180, 230],
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "bfOahgbbg9",
   "server": {
     "pro": [
-      {
-        "url": "https://blum-server8.vercel.app/api/",
+     {
+        "url": "https://blum-server11.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-server5.vercel.app/api/",
+        "url": "https://blum-server12.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-server3.vercel.app/api/",
+        "url": "https://blum-server13.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-server4.vercel.app/api/",
+        "url": "https://blum-server14.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-server6.vercel.app/api/",
+        "url": "https://blum-server15.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-server0.vercel.app/api/",
+        "url": "https://blum-server16.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-server7.vercel.app/api/",
+        "url": "https://blum-server17.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-server9.vercel.app/api/",
+        "url": "https://blum-server18.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-server10.vercel.app/api/",
+        "url": "https://blum-server19.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server20.vercel.app/api/",
         "status": 1
       }
     ],
@@ -154,11 +159,23 @@
     {
       "id": "bb84e765-31aa-4f0d-8430-b3f75d88c1aa",
       "answer": "CRYPTOZONE"
+    },
+    {
+      "id": "7a3502e2-cdc7-4842-8879-bbeb2ebec594",
+      "answer": "Blumify"
+    },
+    {
+      "id": "4477c434-f8df-4432-a3d7-b47a6e44c1d7",
+      "answer": "Dexxx"
+    },
+    {
+      "id": "d275de44-df86-45f7-92e0-fb28e3a01830",
+      "answer": "CRYPTOGAS"
     }
   ],
   "tribeSkip": [
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
-  "ver": "v0.2.3",
+  "ver": "v0.2.4",
   "noti": "- The game feature is experiencing an error and does not record points after playing. Please suspend the tool until the next update.\n- The multi-language feature has been updated. Refer to the user guide at https://github.com/zuydd/blum for installation instructions.\n- If you are integrating the API into your own bot, please switch the PRO server to the new server at http://14.225.212.202 before 8:00 (UTC+7) on 10/29/2024 to avoid service interruptions.\n- The new version supports API KEYs, which can be purchased or obtained for free at 👉 https://zuy-web.vercel.app/blum with a 30% early-bird discount.\n- Press enter to skip if you do not have an API KEY.\n- For those requesting a FREE KEY, please message me on Telegram @apimanagerzoro first. I am unable to send messages proactively as it may be flagged as spam."
 }
