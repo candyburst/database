@@ -245,5 +245,5 @@
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
   "ver": "v0.2.4",
-  "noti": "- The game feature is experiencing an error and does not record points after playing. Please suspend the tool until the next update.\n- The multi-language feature has been updated. Refer to the user guide at https://github.com/zuydd/blum for installation instructions.\n- If you are integrating the API into your own bot, please switch the PRO server to the new server at http://14.225.212.202 before 8:00 (UTC+7) on 10/29/2024 to avoid service interruptions.\n- The new version supports API KEYs, which can be purchased or obtained for free at 👉 https://zuy-web.vercel.app/blum with a 30% early-bird discount.\n- Press enter to skip if you do not have an API KEY.\n- For those requesting a FREE KEY, please message me on Telegram @apimanagerzoro first. I am unable to send messages proactively as it may be flagged as spam."
+  "noti": "- Blum has attached Cloudflare to protect against bot requests via API, so we cannot use the tool temporarily. I will try to find a way but the chance of being able to bypass it is very low."
 }
