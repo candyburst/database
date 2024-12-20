@@ -272,6 +272,6 @@
   "tribeSkip": [
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
-  "ver": "v0.2.4",
-  "noti": "- Blum has attached Cloudflare to protect against bot requests via API, so we cannot use the tool temporarily. I will try to find a way but the chance of being able to bypass it is very low."
+  "ver": "v0.2.5",
+  "noti": "- Bypass Cloudflare has been updated, the tool has now returned to normal operation. Sorry everyone for the long wait."
 }
