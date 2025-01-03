@@ -304,6 +304,6 @@
   "tribeSkip": [
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
-  "ver": "v0.2.5",
+  "ver": "v0.2.7",
   "noti": "- Bypass Cloudflare has been updated, the tool has now returned to normal operation. Sorry everyone for the long wait."
 }
