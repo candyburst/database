@@ -1,6 +1,6 @@
 {
   "skipHandleTask": false,
-  "skipHandleGame": false,
+  "skipHandleGame": true,
   "randomPoints": [170, 205],
   "multiplierPoint": 1,
    "skipTasks": [
